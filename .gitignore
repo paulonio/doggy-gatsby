@@ -2,3 +2,7 @@ node_modules/
 .cache/
 public
 src/gatsby-types.d.ts
+
+.yarn/install-state.gz
+.DS_Store
+.env
